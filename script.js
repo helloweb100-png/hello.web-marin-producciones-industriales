@@ -12,7 +12,7 @@
      ------------------------------------------------------------------ */
   const CONFIG = {
     // Número de WhatsApp en formato internacional, solo dígitos. Ej. México: "527441234567"
-    WHATSAPP_NUMBER: "52XXXXXXXXXX",
+    WHATSAPP_NUMBER: "527442311733",
     // URL de la página de Facebook del negocio (si se deja vacío, se ocultan los enlaces)
     FACEBOOK_URL: "",
     DEFAULT_MESSAGE: "Hola, quiero cotizar un proyecto de piso epóxico con Marín Productos Industriales."
